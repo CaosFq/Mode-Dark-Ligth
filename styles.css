@@ -13,7 +13,7 @@ body.dark-theme {
     --color-bg: rgb(47, 47, 47);
     --color-texto: #ffb847;
   }
-  body.Light-theme {
+  body.light-theme {
     --color-bg: #ddd;
     --color-texto: #ee6352;
   }
